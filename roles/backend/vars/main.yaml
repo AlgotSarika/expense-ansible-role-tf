@@ -3,4 +3,4 @@ MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_LOCATION: /app
 COMPONENT: backend
-MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.algot.online"
+# MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.algot.online"
